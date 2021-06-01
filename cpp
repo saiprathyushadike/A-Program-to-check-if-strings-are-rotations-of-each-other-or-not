@@ -18,7 +18,7 @@ int main() {
 	else
 	{
 	  temp=s+s;
-	  int find =s.find(s1);
+	  int find =temp.find(s1);
 	  if(find=1){
 	      cout<<"yes";
 	  }
